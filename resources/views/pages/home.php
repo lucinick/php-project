@@ -1,0 +1,10 @@
+<html>
+	<head>
+		<title>HomePage</title>
+	</head>
+	<body>
+		<div>
+			<p><h1>HomePage</h1></p>
+		</div>
+	</body>
+</html>
